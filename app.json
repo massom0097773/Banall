@@ -2,7 +2,7 @@
     "name": "Ban all",
     "description": "Power Packed Banall Within Seconds.",
     "keywords": ["Zaid", "banall"],
-    "repository": "https://github.com/ITZ-ZAID/Banall",
+    "repository": "https://github.com/massom0097773/Banall",
   "stack": "container",
     "env": {
         "TELEGRAM_TOKEN": {
